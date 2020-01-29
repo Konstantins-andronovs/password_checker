@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.gitignore
+inspectionProfiles/
+misc.xml
+modules.xml
+password_checker.iml
+vcs.xml
